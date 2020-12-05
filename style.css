@@ -1,0 +1,214 @@
+#main{
+	background-color:#EEEEEE;
+	height:1605px;
+	width:981px;
+	/*z-index:0;*/
+}
+
+img{
+	width:100px;
+	height:70px;
+}
+
+body{
+
+}
+.div1{
+	float:left;
+}
+
+#forma{
+	width:950px;
+	height:570px;
+}
+
+#form{
+	background-image:url(../img/way.jpg);
+	width:980px;
+	height:570px;
+	display:flex;
+}
+
+/*<img id="pic" src="./img/main.jpeg">*/
+
+.pic{
+	background-image:url(../img/main.jpeg);
+	width:980px;
+	height:570px;
+	/*z-index:1;*/
+	display:flex;
+	align-items:center;
+	flex-direction:row;
+}
+
+.main{
+	text-align:justify;
+	font-family:Verdana;
+	color:grey;
+	font-weight:414;
+}
+
+.but{
+	float:right;
+	width:75px;
+	height:30px;
+}
+
+.button{
+	background-color:none;
+	border:2px solid cyan;
+}
+
+.form{
+	width:300px;
+	height:100px;
+}
+
+.name{
+	width:190px;
+	height:35px;
+	border-radius:3px;
+	/*z-index:7;*/
+}
+
+.adress{
+	width:190px;
+	height:35px;
+	border-radius:3px;
+	/*z-index:7;*/
+}
+
+.message{
+	width:190px;
+	height:80px;
+	border-radius:3px;
+	/*z-index:7;*/
+}
+
+/*
+.way{
+	width:900px;
+	height:570px;
+	align-items:center;
+	z-index:0;
+}*/
+
+
+#str{
+	/*z-index:10;*/
+	color:white;
+	font-weight:bold;
+}
+
+h2{
+	font-size:17px;
+	font-weight:697;
+	color:black;
+	text-align:center;
+}
+
+.tx1{
+	text-align:center;
+	font-size:7px;
+}
+
+.tx2{
+	text-align:center;
+	font-size:7px;
+	
+}
+
+#3pict{
+	display:flex;
+	flex-direction:row;
+	float:left;
+	width:40px;
+	height:20px;
+}
+
+img#11{
+
+}
+
+img#22{
+
+}
+
+img#33{
+
+}
+
+div.picture{
+	
+}
+
+div.3pic{
+}
+
+/*
+div.3pic2{
+	display:inline;
+	width:40px;
+	height:20px;
+}*/
+.os{
+	display:flex;
+	float:left;
+}
+img.1{
+
+}
+
+img.2{
+
+}
+
+img.3{
+
+}
+
+img.4{
+
+}
+
+img.5{
+
+}
+
+img.6{
+
+}
+
+
+
+div.div1{
+
+}
+
+div.div2{
+
+}
+
+div.div3{
+
+}
+
+div.div4{
+
+}
+
+div.div5{
+
+}
+
+div.div6{
+
+}
+
+
+/*
+img{
+	width:80px;
+	height:60px;
+	
+}*/
